@@ -122,7 +122,7 @@ class UserDashBoard extends Component {
                         <Col span={3}>
                             <div className="upload-btn-wrapper">
                                 <button className="btn">Upload a file</button>
-                                <input type="file" name="myfile" className='xx' />
+                                <input type="file" name="myfile" className='xx' onChange ={this.uploadFile}/>
                             </div>
                         </Col>
 

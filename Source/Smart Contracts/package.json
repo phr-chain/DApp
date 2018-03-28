@@ -1,8 +1,0 @@
-{
-    "name": "PHR_BackEnd",
-    "version": "0.0.0",
-    "devDependencies": {},
-    "dependencies": {
-        "truffle-hdwallet-provider": "0.0.3"
-    }
-}
