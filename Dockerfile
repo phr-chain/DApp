@@ -26,7 +26,7 @@ RUN apk add -U git
 
 COPY ["./package.json", "./package-lock.json*", "./npm-shrinkwrap.json*", "./"]
 RUN npm install
-COPY ./DApp/ .
+COPY . .
 RUN ls /usr/src/app
 EXPOSE 3000
 CMD npm run start
