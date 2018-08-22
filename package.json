@@ -13,7 +13,7 @@
     "ipfs-mini": "^1.1.2",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
-    "react-scripts": "1.1.1",
+    "react-scripts": "1.1.5",
     "save-as": "^0.1.8",
     "web3": "^0.20.6",
     "webcrypto-liner": "^0.1.34"
